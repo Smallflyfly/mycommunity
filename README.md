@@ -10,3 +10,14 @@
 
 ## 工具
 [visual paradigm](https://www.visual-paradigm.com/cn/)
+```mysql
+CREATE TABLE USER (
+	ID INTEGER auto_increment,
+	USERNAME VARCHAR ( 20 ),
+	ACCOUNT_ID VARCHAR ( 20 ),
+	TOKEN CHAR ( 36 ),
+	GMT_CREATE BIGINT,
+	GMT_MODIFIED BIGINT,
+PRIMARY KEY ( ID ) 
+);
+```
