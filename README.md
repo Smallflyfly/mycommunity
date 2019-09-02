@@ -23,6 +23,6 @@ PRIMARY KEY ( ID )
 ```
 
 ## idea 快捷方式
-command + alt + v = 生成变量
-alt + Enter = 创建方法
-command + p = 查看参数
+command + alt + v = 生成变量  
+alt + Enter = 创建方法  
+command + p = 查看参数  
